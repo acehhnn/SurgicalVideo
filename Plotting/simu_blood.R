@@ -1,5 +1,5 @@
-nonblood = read.csv("D:\\_denglab\\learning\\fakeblood_test\\xml_2\\nonblood.csv", header = T)
-blood = read.csv("D:\\_denglab\\learning\\fakeblood_test\\xml_2\\blood.csv",header = T)
+nonblood = read.csv("D:\\THU\\3spring\\_denglab\\learning\\fakeblood_test\\xml_2\\nonblood.csv", header = T)
+blood = read.csv("D:\\THU\\3spring\\_denglab\\learning\\fakeblood_test\\xml_2\\blood.csv",header = T)
 nonblood = nonblood[,2:5]
 blood = blood[,2:5]
 
